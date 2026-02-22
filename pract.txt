@@ -5,5 +5,5 @@ wed
 gihi
 ahdhd
 ee
-es
-ret
+ets
+rget
