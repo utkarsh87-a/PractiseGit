@@ -1,4 +1,8 @@
 asdgff
 ahdhd
+<<<<<<< HEAD
 de
 asd
+=======
+def
+>>>>>>> 34682f3ecbd7564e8c1e9bd72a90f85d3272ebc9
